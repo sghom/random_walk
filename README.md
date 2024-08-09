@@ -19,7 +19,7 @@ Description: This script extends the random walk visualization by increasing the
 Script: scatter_square_numbers_plot.py
 Description: This script creates a scatter plot of square numbers using Matplotlib. The points are color-coded based on their value, and the plot is saved as a PNG file. The axis ranges are set explicitly to frame the plot better.
 
-5.Plotly Color Scales:
+5. Plotly Color Scales:
 Script: plotly_colors.py
 Description: This script prints out the names of available color scales from the Plotly library. It serves as a reference for choosing color scales in Plotly visualizations.
 
