@@ -1,4 +1,4 @@
-# random_walk
+# Random Walk
 A random walk visualization
 
 This repository contains a series of Python scripts demonstrating various data visualization techniques and custom class implementations. Below is a brief overview of the provided code:
